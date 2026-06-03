@@ -43,12 +43,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavocalce&show_icons=true&theme=merko&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocalce&layout=compact&theme=merko&hide_border=true" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavocalce&show_icons=true&bg_color=0b2f24&title_color=34d399&text_color=e5e7eb&icon_color=10b981&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavocalce&layout=compact&bg_color=0b2f24&title_color=34d399&text_color=e5e7eb&hide_border=true" alt="top languages" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=gustavocalce&theme=merko&hide_border=true" alt="streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=gustavocalce&background=0b2f24&border=0b2f24&ring=34d399&fire=10b981&currStreakLabel=34d399&sideLabels=34d399&dates=9ca3af&hide_border=true" alt="streak" />
 </div>
 
 ---
