@@ -43,12 +43,17 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavocalce&show_icons=true&bg_color=0b2f24&title_color=34d399&text_color=e5e7eb&icon_color=10b981&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavocalce&layout=compact&bg_color=0b2f24&title_color=34d399&text_color=e5e7eb&hide_border=true" alt="top languages" />
+  <img src="https://img.shields.io/github/followers/gustavocalce?style=for-the-badge&color=064e3b&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/gustavocalce/gustavocalce?style=for-the-badge&color=0b2f24&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/gustavocalce/gustavocalce?style=for-the-badge&color=0a3a2b&label=Profile%20Repo%20Stars" alt="Profile Repo Stars" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=gustavocalce&background=0b2f24&border=0b2f24&ring=34d399&fire=10b981&currStreakLabel=34d399&sideLabels=34d399&dates=9ca3af&hide_border=true" alt="streak" />
+  <img src="https://komarev.com/ghpvc/?username=gustavocalce&style=for-the-badge&color=0b2f24&label=Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/064e3b/gustavocalce" alt="GitHub contributions chart" />
 </div>
 
 ---
