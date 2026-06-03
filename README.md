@@ -50,17 +50,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/gustavocalce?style=for-the-badge&color=064e3b&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/gustavocalce/gustavocalce?style=for-the-badge&color=0b2f24&label=Last%20Commit" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/gustavocalce/gustavocalce?style=for-the-badge&color=0a3a2b&label=Profile%20Repo%20Stars" alt="Profile Repo Stars" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavocalce&style=for-the-badge&color=0b2f24&label=Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/064e3b/gustavocalce" alt="GitHub contributions chart" />
+  <img src="github-metrics.svg" alt="GitHub metrics" />
 </div>
 
 ---
